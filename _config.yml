@@ -29,7 +29,7 @@ twitter_username: _funwie
 github_username:  funwie
 
 # Build settings
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
