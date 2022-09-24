@@ -13,7 +13,7 @@ Core Experiences
 ![REST and gRPC APIs](https://img.shields.io/badge/-REST%20and%20gRPC%20APIs-%230F9D58)
 ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-%23DB4437)
 
-## Keep in touch with me! 💌
+### Keep in touch with me! 💌
 <br/>
 
 <a href="https://twitter.com/classic_addetz" target="_blank">
@@ -28,6 +28,5 @@ Core Experiences
 
 <br/>
 
-<h2>
-Thanks for stopping by! ☀️
-</h2>
+
+##### Thanks for stopping by! ☀️
