@@ -15,7 +15,25 @@ Core Experience
 ![REST and gRPC APIs](https://img.shields.io/badge/-REST%20and%20gRPC%20APIs-%230F9D58)
 ![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-%23DB4437)
 
-<!--
+## Keep in touch with me! 💌
+<br/>
+
+<a href="https://twitter.com/classic_addetz" target="_blank">
+   <img src="img/twitter.png" width="48"/>
+</a>
+<a href="https://www.linkedin.com/in/adelina-simion/" target="_blank">
+   <img src="img/linkedin.png" width="48"/>
+</a>
+<a href="https://adelinasimion.dev/" target="_blank">
+   <img src="img/blog.png" width="48"/>
+</a>
+
+<br/>
+
+<h2>
+Thanks for stopping by! ☀️
+</h2>
+
 **funwie/funwie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
