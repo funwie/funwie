@@ -16,13 +16,13 @@ Core Experiences
 ### Keep in touch with me! 💌
 <br/>
 
-<a href="https://twitter.com/classic_addetz" target="_blank">
+<a href="https://twitter.com/LFunwie" target="_blank">
    <img src="img/twitter.png" width="48"/>
 </a>
-<a href="https://www.linkedin.com/in/adelina-simion/" target="_blank">
+<a href="https://www.linkedin.com/in/funwie/" target="_blank">
    <img src="img/linkedin.png" width="48"/>
 </a>
-<a href="https://adelinasimion.dev/" target="_blank">
+<a href="https://funwie.com/" target="_blank">
    <img src="img/blog.png" width="48"/>
 </a>
 
