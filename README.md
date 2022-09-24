@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I am a software engineer with strong background in building distributed systems with high performant, scalable APIs that focus on delivering great product experiences. 
+My background is in building distributed systems with highly performant, scalable APIs that deliver great product experiences.  
 <br>
-I'm always curious to learn about teams and businesses working on challenging problems to scale existing products or on greenfield projects. 
-<br>
-If you are building new products, scaling a product, building a tech team, or simply improving an existing solution, then let's talk!
+If you are building new products, scaling a product, building a tech team, or simply want to share ideas, then let's talk!
 
 Core Experiences
 <br>
