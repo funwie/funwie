@@ -12,7 +12,8 @@ Core Experience
 ![C# ASP.Net Core](https://img.shields.io/badge/-C%23%20ASP.Net%20Core-rgb(128%2C%200%2C%20128))
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900)
 ![GCP](https://img.shields.io/badge/-GCP-%234285F4)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST and gRPC APIs](https://img.shields.io/badge/-REST%20and%20gRPC%20APIs-%230F9D58)
+![Distributed Systems](https://img.shields.io/badge/-Distributed%20Systems-%23DB4437)
 
 <!--
 **funwie/funwie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
