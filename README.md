@@ -9,8 +9,9 @@ If you are building new products, scaling a product, building a tech team, or si
 Core Experience
 <br>
 ![Go](https://img.shields.io/badge/-Go%20-%2329BEB0)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![C# ASP.Net Core](https://img.shields.io/badge/-C%23%20ASP.Net%20Core-rgb(128%2C%200%2C%20128))
+![AWS](https://img.shields.io/badge/-AWS-%23FF9900)
+![GCP](https://img.shields.io/badge/-GCP-%234285F4)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <!--
