@@ -6,7 +6,7 @@ I'm always curious to learn about teams and businesses working on challenging p
 <br>
 If you are building new products, scaling a product, building a tech team, or simply improving an existing solution, then let's talk!
 
-Core Experience
+Core Experiences
 <br>
 ![Go](https://img.shields.io/badge/-Go%20-%2329BEB0)
 ![C# ASP.Net Core](https://img.shields.io/badge/-C%23%20ASP.Net%20Core-rgb(128%2C%200%2C%20128))
@@ -33,17 +33,3 @@ Core Experience
 <h2>
 Thanks for stopping by! ☀️
 </h2>
-
-**funwie/funwie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
