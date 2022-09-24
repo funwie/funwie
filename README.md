@@ -1,16 +1,13 @@
 ### Hi there 👋
 
 I am a Senior Software Engineer based in London, UK.
-
 <br>
-
 My background is in building distributed systems with highly performant, scalable APIs that deliver great product experiences. 
-
 <br>
-
 If you are building new a product, scaling a product, building a tech team, or simply want to share ideas, then let's talk!
 
-Core Experiences
+
+### Core Experiences
 <br>
 ![Go](https://img.shields.io/badge/-Go%20-%2329BEB0)
 ![C# ASP.Net Core](https://img.shields.io/badge/-C%23%20ASP.Net%20Core-rgb(128%2C%200%2C%20128))
