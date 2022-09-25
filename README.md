@@ -9,7 +9,7 @@ If you are building a new product, scaling a product, building a tech team, or s
 
 ### Core Experiences
 <br>
-<img src="[img/twitter.png](https://img.shields.io/badge/-Go%20-%2329BEB0)" width="48"/>
+<img src="https://img.shields.io/badge/-Go%20-%2329BEB0" width="48"/>
 ![Go](https://img.shields.io/badge/-Go%20-%2329BEB0)
 ![C# ASP.Net Core](https://img.shields.io/badge/-C%23%20ASP.Net%20Core-rgb(128%2C%200%2C%20128))
 ![AWS](https://img.shields.io/badge/-AWS-%23FF9900)
