@@ -31,4 +31,5 @@ If you are building a new product, scaling a product, building a tech team, or s
 
 <br/>
 
-##### Thanks for stopping by! ☀️
+##### Thanks for stopping by!
+
