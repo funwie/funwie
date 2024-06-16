@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am a Senior Software Engineer based in London, UK.
+Senior Software Engineer based in London, UK.
 <br>
-My background is in building distributed systems with highly performant, scalable APIs that deliver great product experiences. 
+Experienced building highyly resilient distributed APIs for banking, credit card payments, lending, and insurance. 
 <br>
-If you are building a new product, scaling a product, building a tech team, or simply want to share ideas, then let's talk!
+Available to discuss/share ideas. Get in touch!
 
 
 ### Core Experiences
