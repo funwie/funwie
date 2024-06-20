@@ -2,7 +2,7 @@
 
 Senior Software Engineer based in London, UK.
 <br>
-Experienced building highyly resilient distributed APIs for banking, credit card payments, lending, and insurance. 
+Experienced building highly resilient distributed APIs for banking, credit card payments, lending, and insurance. 
 <br>
 Available to discuss/share ideas. Get in touch!
 
